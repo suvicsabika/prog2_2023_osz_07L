@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         if (args.length != 2) {
-            System.out.println("Hiba! Adjon meg 2 szamot.");
+            System.out.println("Hiba! Pontosan ketto darab parancssori argumentumot adjon meg.");
             System.exit(1); // echo $?
         }
 
